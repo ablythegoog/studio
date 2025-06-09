@@ -97,7 +97,7 @@ export default function PicturePoetPage() {
         <p className="text-muted-foreground mt-2 text-lg sm:text-xl font-body">Transform your photos into beautiful poems.</p>
       </header>
 
-      <main className="w-full max-w-5xl grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8">
+      <main className="w-full max-w-5xl grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8 flex-1">
         <div className="flex flex-col">
            <Card className="shadow-xl flex-grow bg-card">
             <CardHeader>
