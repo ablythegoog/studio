@@ -174,7 +174,7 @@ export default function PicturePoetPage() {
       </main>
 
       <footer className="mt-24 sm:mt-32 mb-8 text-center text-sm text-muted-foreground font-body">
-        <p>&copy; {new Date().getFullYear()} Picture Poet. Crafted with <span className="text-accent font-bold">&hearts;</span> by AI.</p>
+        <p>&copy; {new Date().getFullYear()} <p></p><p></p><p></p>Picture Poet. Crafted with <span className="text-accent font-bold">&hearts;</span> by AI.</p>
       </footer>
     </div>
   );
